@@ -1,2 +1,2 @@
-# Google-Clone
-This repository is a google clone made during the odin project
+# Google-clone
+This project is a google clone created by me as part of my own project.
